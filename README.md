@@ -18,7 +18,7 @@ Danny has shared with you 3 key datasets for this case study:
 - sales
 - menu
 - members
-You can inspect the entity relationship diagram and example data below.
+
 ![ERD](https://user-images.githubusercontent.com/111151093/220212029-37991ce8-7227-464d-a7cc-8b238493129d.png "ERD")
 
 
